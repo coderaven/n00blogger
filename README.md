@@ -7,3 +7,9 @@ Free and darn simple keystroke logging application, allows you to capture and re
 What's here?
 ------------
 In here is the KeyBoardHooker.cs Class which you can use when creating your own KeyLogger Application in C#. Have fun! :)
+
+
+
+Screenshot
+----------
+![Screenshot](http://i.imgur.com/yv7gPYy.png)
